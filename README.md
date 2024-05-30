@@ -1,1 +1,3 @@
-"# Product_engineering_design_practice" 
+# Product_engineering_design_practice
+
+本项目用于产品工程化设计文档的组队公用文件交流
