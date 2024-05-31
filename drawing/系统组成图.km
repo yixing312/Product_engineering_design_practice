@@ -1,0 +1,235 @@
+{
+    "root": {
+        "data": {
+            "id": "d1n2hr4r7hs0",
+            "created": 1717081220864,
+            "text": "Stellaris Rover",
+            "font-size": 24
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d1n2ib165fk0",
+                    "created": 1717081264183,
+                    "text": "机械部分",
+                    "layout_mind_offset": {
+                        "x": -76.66666133536256,
+                        "y": -94.16666011843449
+                    },
+                    "layout_right_offset": {
+                        "x": -85.99999743700027,
+                        "y": 20.999999374151287
+                    },
+                    "font-size": 24
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d1n2k4hx6aw0",
+                            "created": 1717081406686,
+                            "text": "柔光罩",
+                            "layout_right_offset": {
+                                "x": -1.1368683772161603e-13,
+                                "y": 4.166666376921853
+                            },
+                            "font-size": 16
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d1n2kao1xfk0",
+                                    "created": 1717081420118,
+                                    "text": "模拟太阳",
+                                    "font-size": 16
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d1n2khy49ao0",
+                            "created": 1717081435964,
+                            "text": "操纵手柄",
+                            "font-size": 16
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d1n2ky1uo3k0",
+                                    "created": 1717081471018,
+                                    "text": "用户交互",
+                                    "font-size": 16
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d1n2l3jk7z40",
+                            "created": 1717081482973,
+                            "text": "多媒体显示屏",
+                            "font-size": 16
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d1n2l9stfq80",
+                                    "created": 1717081496593,
+                                    "text": "用户交互",
+                                    "font-size": 16
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d1n2ldjju740",
+                            "created": 1717081504740,
+                            "text": "卫星模型",
+                            "font-size": 16,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d1n2lhmqcuo0",
+                                    "created": 1717081513639,
+                                    "text": "卫星本体模型",
+                                    "font-size": 16
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d1n2ljnytc80",
+                                    "created": 1717081518068,
+                                    "text": "太阳能帆板模型",
+                                    "font-size": 16
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d1n2lpeckv40",
+                                    "created": 1717081530547,
+                                    "text": "卫星变向机构",
+                                    "font-size": 16
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d1n2lu9lm740",
+                                    "created": 1717081541144,
+                                    "text": "太阳能帆板变向机构",
+                                    "font-size": 16
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d1n2if0wiso0",
+                    "created": 1717081272874,
+                    "text": "电控部分",
+                    "layout_mind_offset": {
+                        "x": 412.49997131526624,
+                        "y": 191.6666533384066
+                    },
+                    "layout_right_offset": {
+                        "x": -131.66666274269443,
+                        "y": 9.666666378577474
+                    },
+                    "font-size": 24
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d1n2ne1gs4o0",
+                            "created": 1717081662552,
+                            "text": "上位机",
+                            "font-size": 16
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d1n2ngo3iv40",
+                                    "created": 1717081668274,
+                                    "text": "树莓派5",
+                                    "font-size": 16
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d1n2nvk4bso0",
+                                            "created": 1717081700685,
+                                            "text": "与下位机交互",
+                                            "font-size": 16
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d1n2o13jiyg0",
+                                            "created": 1717081712743,
+                                            "text": "与用户手柄交互",
+                                            "font-size": 16
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d1n2o5l5nk00",
+                                            "created": 1717081722515,
+                                            "text": "与多媒体显示屏交互",
+                                            "font-size": 16
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d1n2nk8my940",
+                            "created": 1717081676046,
+                            "text": "下位机",
+                            "font-size": 16
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d1n2nmxlw6g0",
+                                    "created": 1717081681909,
+                                    "text": "Arduino",
+                                    "font-size": 16
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d1n2obmk0aw0",
+                                            "created": 1717081735661,
+                                            "text": "与变向机构交互",
+                                            "font-size": 16
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-purple",
+    "version": "1.4.43"
+}
